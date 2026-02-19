@@ -24,6 +24,16 @@ export default function App() {
           placeholder='Altura Ex: 1.70'
         />
 
+        <button>Calcular</button>
+
+        <button>Limpar</button>
+
+      </div> {/* fecha imc-form */}
+
+      <div className="result-card">
+        <h1>26</h1>
+        <h2>Peso Normal</h2>
+        <p>índice de Massa Corporal</p>
       </div>
 
      </div> {/* fecha imc-container */}
